@@ -1,0 +1,200 @@
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 1): Mensagem UDP 001
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 1): ECO: Mensagem UDP 001 | RTT: 0.08ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 2): Mensagem UDP 002
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 2): ECO: Mensagem UDP 002 | RTT: 0.05ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 3): Mensagem UDP 003
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 3): ECO: Mensagem UDP 003 | RTT: 0.04ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 4): Mensagem UDP 004
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 4): ECO: Mensagem UDP 004 | RTT: 0.04ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 5): Mensagem UDP 005
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 5): ECO: Mensagem UDP 005 | RTT: 0.04ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 6): Mensagem UDP 006
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 6): ECO: Mensagem UDP 006 | RTT: 0.04ms
+2026-08-16 12:05:17,202 [INFO] Enviado (Iteração 7): Mensagem UDP 007
+2026-08-16 12:05:17,202 [INFO] Recebido (Iteração 7): ECO: Mensagem UDP 007 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 8): Mensagem UDP 008
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 8): ECO: Mensagem UDP 008 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 9): Mensagem UDP 009
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 9): ECO: Mensagem UDP 009 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 10): Mensagem UDP 010
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 10): ECO: Mensagem UDP 010 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 11): Mensagem UDP 011
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 11): ECO: Mensagem UDP 011 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 12): Mensagem UDP 012
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 12): ECO: Mensagem UDP 012 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 13): Mensagem UDP 013
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 13): ECO: Mensagem UDP 013 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 14): Mensagem UDP 014
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 14): ECO: Mensagem UDP 014 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 15): Mensagem UDP 015
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 15): ECO: Mensagem UDP 015 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 16): Mensagem UDP 016
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 16): ECO: Mensagem UDP 016 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 17): Mensagem UDP 017
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 17): ECO: Mensagem UDP 017 | RTT: 0.05ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 18): Mensagem UDP 018
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 18): ECO: Mensagem UDP 018 | RTT: 0.04ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 19): Mensagem UDP 019
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 19): ECO: Mensagem UDP 019 | RTT: 0.07ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 20): Mensagem UDP 020
+2026-08-16 12:05:17,203 [INFO] Recebido (Iteração 20): ECO: Mensagem UDP 020 | RTT: 0.07ms
+2026-08-16 12:05:17,203 [INFO] Enviado (Iteração 21): Mensagem UDP 021
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 21): ECO: Mensagem UDP 021 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 22): Mensagem UDP 022
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 22): ECO: Mensagem UDP 022 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 23): Mensagem UDP 023
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 23): ECO: Mensagem UDP 023 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 24): Mensagem UDP 024
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 24): ECO: Mensagem UDP 024 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 25): Mensagem UDP 025
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 25): ECO: Mensagem UDP 025 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 26): Mensagem UDP 026
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 26): ECO: Mensagem UDP 026 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 27): Mensagem UDP 027
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 27): ECO: Mensagem UDP 027 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 28): Mensagem UDP 028
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 28): ECO: Mensagem UDP 028 | RTT: 0.06ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 29): Mensagem UDP 029
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 29): ECO: Mensagem UDP 029 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 30): Mensagem UDP 030
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 30): ECO: Mensagem UDP 030 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 31): Mensagem UDP 031
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 31): ECO: Mensagem UDP 031 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 32): Mensagem UDP 032
+2026-08-16 12:05:17,204 [INFO] Recebido (Iteração 32): ECO: Mensagem UDP 032 | RTT: 0.05ms
+2026-08-16 12:05:17,204 [INFO] Enviado (Iteração 33): Mensagem UDP 033
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 33): ECO: Mensagem UDP 033 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 34): Mensagem UDP 034
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 34): ECO: Mensagem UDP 034 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 35): Mensagem UDP 035
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 35): ECO: Mensagem UDP 035 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 36): Mensagem UDP 036
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 36): ECO: Mensagem UDP 036 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 37): Mensagem UDP 037
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 37): ECO: Mensagem UDP 037 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 38): Mensagem UDP 038
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 38): ECO: Mensagem UDP 038 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 39): Mensagem UDP 039
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 39): ECO: Mensagem UDP 039 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 40): Mensagem UDP 040
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 40): ECO: Mensagem UDP 040 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 41): Mensagem UDP 041
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 41): ECO: Mensagem UDP 041 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 42): Mensagem UDP 042
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 42): ECO: Mensagem UDP 042 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 43): Mensagem UDP 043
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 43): ECO: Mensagem UDP 043 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 44): Mensagem UDP 044
+2026-08-16 12:05:17,205 [INFO] Recebido (Iteração 44): ECO: Mensagem UDP 044 | RTT: 0.05ms
+2026-08-16 12:05:17,205 [INFO] Enviado (Iteração 45): Mensagem UDP 045
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 45): ECO: Mensagem UDP 045 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 46): Mensagem UDP 046
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 46): ECO: Mensagem UDP 046 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 47): Mensagem UDP 047
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 47): ECO: Mensagem UDP 047 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 48): Mensagem UDP 048
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 48): ECO: Mensagem UDP 048 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 49): Mensagem UDP 049
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 49): ECO: Mensagem UDP 049 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 50): Mensagem UDP 050
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 50): ECO: Mensagem UDP 050 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 51): Mensagem UDP 051
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 51): ECO: Mensagem UDP 051 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 52): Mensagem UDP 052
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 52): ECO: Mensagem UDP 052 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 53): Mensagem UDP 053
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 53): ECO: Mensagem UDP 053 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 54): Mensagem UDP 054
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 54): ECO: Mensagem UDP 054 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 55): Mensagem UDP 055
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 55): ECO: Mensagem UDP 055 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 56): Mensagem UDP 056
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 56): ECO: Mensagem UDP 056 | RTT: 0.05ms
+2026-08-16 12:05:17,206 [INFO] Enviado (Iteração 57): Mensagem UDP 057
+2026-08-16 12:05:17,206 [INFO] Recebido (Iteração 57): ECO: Mensagem UDP 057 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 58): Mensagem UDP 058
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 58): ECO: Mensagem UDP 058 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 59): Mensagem UDP 059
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 59): ECO: Mensagem UDP 059 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 60): Mensagem UDP 060
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 60): ECO: Mensagem UDP 060 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 61): Mensagem UDP 061
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 61): ECO: Mensagem UDP 061 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 62): Mensagem UDP 062
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 62): ECO: Mensagem UDP 062 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 63): Mensagem UDP 063
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 63): ECO: Mensagem UDP 063 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 64): Mensagem UDP 064
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 64): ECO: Mensagem UDP 064 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 65): Mensagem UDP 065
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 65): ECO: Mensagem UDP 065 | RTT: 0.06ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 66): Mensagem UDP 066
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 66): ECO: Mensagem UDP 066 | RTT: 0.06ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 67): Mensagem UDP 067
+2026-08-16 12:05:17,207 [INFO] Recebido (Iteração 67): ECO: Mensagem UDP 067 | RTT: 0.05ms
+2026-08-16 12:05:17,207 [INFO] Enviado (Iteração 68): Mensagem UDP 068
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 68): ECO: Mensagem UDP 068 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 69): Mensagem UDP 069
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 69): ECO: Mensagem UDP 069 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 70): Mensagem UDP 070
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 70): ECO: Mensagem UDP 070 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 71): Mensagem UDP 071
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 71): ECO: Mensagem UDP 071 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 72): Mensagem UDP 072
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 72): ECO: Mensagem UDP 072 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 73): Mensagem UDP 073
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 73): ECO: Mensagem UDP 073 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 74): Mensagem UDP 074
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 74): ECO: Mensagem UDP 074 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 75): Mensagem UDP 075
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 75): ECO: Mensagem UDP 075 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 76): Mensagem UDP 076
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 76): ECO: Mensagem UDP 076 | RTT: 0.09ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 77): Mensagem UDP 077
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 77): ECO: Mensagem UDP 077 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 78): Mensagem UDP 078
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 78): ECO: Mensagem UDP 078 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 79): Mensagem UDP 079
+2026-08-16 12:05:17,208 [INFO] Recebido (Iteração 79): ECO: Mensagem UDP 079 | RTT: 0.05ms
+2026-08-16 12:05:17,208 [INFO] Enviado (Iteração 80): Mensagem UDP 080
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 80): ECO: Mensagem UDP 080 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 81): Mensagem UDP 081
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 81): ECO: Mensagem UDP 081 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 82): Mensagem UDP 082
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 82): ECO: Mensagem UDP 082 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 83): Mensagem UDP 083
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 83): ECO: Mensagem UDP 083 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 84): Mensagem UDP 084
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 84): ECO: Mensagem UDP 084 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 85): Mensagem UDP 085
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 85): ECO: Mensagem UDP 085 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 86): Mensagem UDP 086
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 86): ECO: Mensagem UDP 086 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 87): Mensagem UDP 087
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 87): ECO: Mensagem UDP 087 | RTT: 0.06ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 88): Mensagem UDP 088
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 88): ECO: Mensagem UDP 088 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 89): Mensagem UDP 089
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 89): ECO: Mensagem UDP 089 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 90): Mensagem UDP 090
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 90): ECO: Mensagem UDP 090 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 91): Mensagem UDP 091
+2026-08-16 12:05:17,209 [INFO] Recebido (Iteração 91): ECO: Mensagem UDP 091 | RTT: 0.05ms
+2026-08-16 12:05:17,209 [INFO] Enviado (Iteração 92): Mensagem UDP 092
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 92): ECO: Mensagem UDP 092 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 93): Mensagem UDP 093
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 93): ECO: Mensagem UDP 093 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 94): Mensagem UDP 094
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 94): ECO: Mensagem UDP 094 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 95): Mensagem UDP 095
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 95): ECO: Mensagem UDP 095 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 96): Mensagem UDP 096
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 96): ECO: Mensagem UDP 096 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 97): Mensagem UDP 097
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 97): ECO: Mensagem UDP 097 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 98): Mensagem UDP 098
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 98): ECO: Mensagem UDP 098 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 99): Mensagem UDP 099
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 99): ECO: Mensagem UDP 099 | RTT: 0.05ms
+2026-08-16 12:05:17,210 [INFO] Enviado (Iteração 100): Mensagem UDP 100
+2026-08-16 12:05:17,210 [INFO] Recebido (Iteração 100): ECO: Mensagem UDP 100 | RTT: 0.06ms
