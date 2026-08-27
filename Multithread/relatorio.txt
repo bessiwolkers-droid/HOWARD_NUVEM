@@ -1,0 +1,362 @@
+PS C:\Users\****\OneDrive\Área de Trabalho\multithred> & C:\Users\****\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/*****/OneDrive/Área de Trabalho/multithred/multithred.py"
+[servidor] ouvindo em 127.0.0.1:5000
+[servidor] ('127.0.0.1', 61740) conectou
+[servidor] thread Thread-1 (atender_cliente) criada para ('127.0.0.1', 61740)
+[servidor] ('127.0.0.1', 61742) conectou
+[servidor] thread Thread-2 (atender_cliente) criada para ('127.0.0.1', 61742)
+[servidor] ('127.0.0.1', 61741) conectou
+[servidor] thread Thread-3 (atender_cliente) criada para ('127.0.0.1', 61741)
+[servidor] ('127.0.0.1', 61743) conectou
+[servidor] thread Thread-4 (atender_cliente) criada para ('127.0.0.1', 61743)
+[servidor] ('127.0.0.1', 61744) conectou
+[servidor] thread Thread-5 (atender_cliente) criada para ('127.0.0.1', 61744)
+[servidor] ('127.0.0.1', 61747) conectou
+[servidor] thread Thread-6 (atender_cliente) criada para ('127.0.0.1', 61747)
+[servidor] ('127.0.0.1', 61739) conectou
+[servidor] thread Thread-7 (atender_cliente) criada para ('127.0.0.1', 61739)
+[servidor] ('127.0.0.1', 61738) conectou
+[servidor] thread Thread-8 (atender_cliente) criada para ('127.0.0.1', 61738)
+[servidor] ('127.0.0.1', 61746) conectou
+[servidor] thread Thread-9 (atender_cliente) criada para ('127.0.0.1', 61746)
+[servidor] ('127.0.0.1', 61745) conectou
+[servidor] thread Thread-10 (atender_cliente) criada para ('127.0.0.1', 61745)
+[servidor] ('127.0.0.1', 61744): cliente 3: mensagem 1
+[servidor] ('127.0.0.1', 61740): cliente 5: mensagem 1
+[servidor] ('127.0.0.1', 61741): cliente 4: mensagem 1
+[servidor] ('127.0.0.1', 61746): cliente 9: mensagem 1
+[servidor] ('127.0.0.1', 61739): cliente 8: mensagem 1
+[servidor] ('127.0.0.1', 61743): cliente 1: mensagem 1
+[servidor] ('127.0.0.1', 61738): cliente 2: mensagem 1
+[servidor] ('127.0.0.1', 61747): cliente 7: mensagem 1
+[servidor] ('127.0.0.1', 61745): cliente 10: mensagem 1
+[servidor] ('127.0.0.1', 61742): cliente 6: mensagem 1
+[servidor] ('127.0.0.1', 61744): cliente 3: mensagem 2
+[servidor] ('127.0.0.1', 61740): cliente 5: mensagem 2
+[servidor] ('127.0.0.1', 61741): cliente 4: mensagem 2
+[servidor] ('127.0.0.1', 61738): cliente 2: mensagem 2
+[servidor] ('127.0.0.1', 61742): cliente 6: mensagem 2
+[servidor] ('127.0.0.1', 61739): cliente 8: mensagem 2
+[servidor] ('127.0.0.1', 61743): cliente 1: mensagem 2
+[servidor] ('127.0.0.1', 61747): cliente 7: mensagem 2
+[servidor] ('127.0.0.1', 61745): cliente 10: mensagem 2
+[servidor] ('127.0.0.1', 61740): cliente 5: mensagem 3
+[servidor] ('127.0.0.1', 61738): cliente 2: mensagem 3
+[servidor] ('127.0.0.1', 61739): cliente 8: mensagem 3
+[servidor] ('127.0.0.1', 61741): cliente 4: mensagem 3
+[servidor] ('127.0.0.1', 61742): cliente 6: mensagem 3
+[servidor] ('127.0.0.1', 61743): cliente 1: mensagem 3
+[servidor] ('127.0.0.1', 61746): cliente 9: mensagem 2
+[servidor] ('127.0.0.1', 61747): cliente 7: mensagem 3
+[servidor] ('127.0.0.1', 61745): cliente 10: mensagem 3
+[servidor] ('127.0.0.1', 61746): cliente 9: mensagem 3
+[servidor] ('127.0.0.1', 61744): cliente 3: mensagem 3
+[servidor] ('127.0.0.1', 61744) desconectou
+[servidor] ('127.0.0.1', 61745) desconectou
+[servidor] ('127.0.0.1', 61738) desconectou
+[servidor] ('127.0.0.1', 61741) desconectou
+[servidor] ('127.0.0.1', 61746) desconectou
+[servidor] ('127.0.0.1', 61743) desconectou
+[servidor] ('127.0.0.1', 61739) desconectou
+[servidor] ('127.0.0.1', 61742) desconectou
+[servidor] ('127.0.0.1', 61747) desconectou
+[servidor] ('127.0.0.1', 61740) desconectou
+[servidor] ('127.0.0.1', 56430) conectou
+[servidor] thread Thread-11 (atender_cliente) criada para ('127.0.0.1', 56430)
+[servidor] ('127.0.0.1', 56430): cliente 1: mensagem 1
+[servidor] ('127.0.0.1', 56426) conectou
+[servidor] thread Thread-12 (atender_cliente) criada para ('127.0.0.1', 56426)
+[servidor] ('127.0.0.1', 56430): cliente 1: mensagem 2
+[servidor] ('127.0.0.1', 56426): cliente 16: mensagem 1
+[servidor] ('127.0.0.1', 56425) conectou
+[servidor] thread Thread-13 (atender_cliente) criada para ('127.0.0.1', 56425)
+[servidor] ('127.0.0.1', 56425): cliente 14: mensagem 1
+[servidor] ('127.0.0.1', 56430): cliente 1: mensagem 3
+[servidor] ('127.0.0.1', 56429) conectou
+[servidor] thread Thread-14 (atender_cliente) criada para ('127.0.0.1', 56429)
+[servidor] ('127.0.0.1', 56429): cliente 2: mensagem 1
+[servidor] ('127.0.0.1', 56426): cliente 16: mensagem 2
+[servidor] ('127.0.0.1', 56425): cliente 14: mensagem 2
+[servidor] ('127.0.0.1', 56430) desconectou
+[servidor] ('127.0.0.1', 56429): cliente 2: mensagem 2
+[servidor] thread Thread-15 (atender_cliente) criada para ('127.0.0.1', 56428)
+[servidor] ('127.0.0.1', 56428) conectou
+[servidor] ('127.0.0.1', 56425): cliente 14: mensagem 3
+[servidor] ('127.0.0.1', 56424) conectou
+[servidor] ('127.0.0.1', 56428): cliente 3: mensagem 1
+[servidor] thread Thread-16 (atender_cliente) criada para ('127.0.0.1', 56424)
+[servidor] ('127.0.0.1', 56426): cliente 16: mensagem 3
+[servidor] ('127.0.0.1', 56429): cliente 2: mensagem 3
+[servidor] ('127.0.0.1', 56428): cliente 3: mensagem 2
+[servidor] ('127.0.0.1', 56425) desconectou
+[servidor] thread Thread-17 (atender_cliente) criada para ('127.0.0.1', 56427)
+[servidor] ('127.0.0.1', 56427) conectou
+[servidor] ('127.0.0.1', 56428): cliente 3: mensagem 3
+[servidor] ('127.0.0.1', 56429) desconectou
+[servidor] ('127.0.0.1', 56426) desconectou
+[servidor] ('127.0.0.1', 56427): cliente 6: mensagem 1
+[servidor] thread Thread-18 (atender_cliente) criada para ('127.0.0.1', 56423)
+[servidor] ('127.0.0.1', 56424): cliente 4: mensagem 1
+[servidor] ('127.0.0.1', 56423) conectou
+[servidor] ('127.0.0.1', 56427): cliente 6: mensagem 2
+[servidor] ('127.0.0.1', 56424): cliente 4: mensagem 2
+[servidor] ('127.0.0.1', 56423): cliente 8: mensagem 1
+[servidor] ('127.0.0.1', 56428) desconectou
+[servidor] thread Thread-19 (atender_cliente) criada para ('127.0.0.1', 56431)
+[servidor] ('127.0.0.1', 56427): cliente 6: mensagem 3
+[servidor] ('127.0.0.1', 56431) conectou
+[servidor] ('127.0.0.1', 56423): cliente 8: mensagem 2
+[servidor] ('127.0.0.1', 56424): cliente 4: mensagem 3
+[servidor] ('127.0.0.1', 56431): cliente 9: mensagem 1
+[servidor] ('127.0.0.1', 56427) desconectou
+[servidor] thread Thread-20 (atender_cliente) criada para ('127.0.0.1', 56432)
+[servidor] ('127.0.0.1', 56432) conectou
+[servidor] ('127.0.0.1', 56423): cliente 8: mensagem 3
+[servidor] ('127.0.0.1', 56432): cliente 11: mensagem 1
+[servidor] ('127.0.0.1', 56433) conectou
+[servidor] thread Thread-21 (atender_cliente) criada para ('127.0.0.1', 56433)
+[servidor] ('127.0.0.1', 56424) desconectou
+[servidor] ('127.0.0.1', 56431): cliente 9: mensagem 2
+[servidor] ('127.0.0.1', 56433): cliente 12: mensagem 1
+[servidor] ('127.0.0.1', 56423) desconectou
+[servidor] ('127.0.0.1', 56431): cliente 9: mensagem 3
+[servidor] thread Thread-22 (atender_cliente) criada para ('127.0.0.1', 56434)
+[servidor] ('127.0.0.1', 56434) conectou
+[servidor] ('127.0.0.1', 56433): cliente 12: mensagem 2
+[servidor] ('127.0.0.1', 56437) conectou
+[servidor] thread Thread-23 (atender_cliente) criada para ('127.0.0.1', 56437)
+[servidor] ('127.0.0.1', 56431) desconectou
+[servidor] ('127.0.0.1', 56434): cliente 17: mensagem 1
+[servidor] ('127.0.0.1', 56432): cliente 11: mensagem 2
+[servidor] ('127.0.0.1', 56433): cliente 12: mensagem 3
+[servidor] ('127.0.0.1', 56437): cliente 10: mensagem 1
+[servidor] ('127.0.0.1', 56440) conectou
+[servidor] ('127.0.0.1', 56434): cliente 17: mensagem 2
+[servidor] thread Thread-24 (atender_cliente) criada para ('127.0.0.1', 56440)
+[servidor] ('127.0.0.1', 56440): cliente 19: mensagem 1
+[servidor] ('127.0.0.1', 56432): cliente 11: mensagem 3
+[servidor] ('127.0.0.1', 56433) desconectou
+[servidor] ('127.0.0.1', 56437): cliente 10: mensagem 2
+[servidor] ('127.0.0.1', 56439) conectou
+[servidor] thread Thread-25 (atender_cliente) criada para ('127.0.0.1', 56439)
+[servidor] ('127.0.0.1', 56432) desconectou
+[servidor] ('127.0.0.1', 56434): cliente 17: mensagem 3
+[servidor] ('127.0.0.1', 56439): cliente 15: mensagem 1
+[servidor] ('127.0.0.1', 56440): cliente 19: mensagem 2
+[servidor] ('127.0.0.1', 56437): cliente 10: mensagem 3
+[servidor] ('127.0.0.1', 56440): cliente 19: mensagem 3
+[servidor] ('127.0.0.1', 56439): cliente 15: mensagem 2
+[servidor] ('127.0.0.1', 56441) conectou
+[servidor] ('127.0.0.1', 56434) desconectou
+[servidor] thread Thread-26 (atender_cliente) criada para ('127.0.0.1', 56441)
+[servidor] ('127.0.0.1', 56437) desconectou
+[servidor] ('127.0.0.1', 56441): cliente 24: mensagem 1
+[servidor] ('127.0.0.1', 56439): cliente 15: mensagem 3
+[servidor] thread Thread-27 (atender_cliente) criada para ('127.0.0.1', 56442)
+[servidor] ('127.0.0.1', 56442) conectou
+[servidor] ('127.0.0.1', 56440) desconectou
+[servidor] ('127.0.0.1', 56442): cliente 18: mensagem 1
+[servidor] ('127.0.0.1', 56439) desconectou
+[servidor] ('127.0.0.1', 56441): cliente 24: mensagem 2
+[servidor] thread Thread-28 (atender_cliente) criada para ('127.0.0.1', 56435)
+[servidor] ('127.0.0.1', 56435) conectou
+[servidor] ('127.0.0.1', 56442): cliente 18: mensagem 2
+[servidor] ('127.0.0.1', 56435): cliente 5: mensagem 1
+[servidor] ('127.0.0.1', 56441): cliente 24: mensagem 3
+[servidor] ('127.0.0.1', 56438) conectou
+[servidor] ('127.0.0.1', 56442): cliente 18: mensagem 3
+[servidor] thread Thread-29 (atender_cliente) criada para ('127.0.0.1', 56438)
+[servidor] ('127.0.0.1', 56438): cliente 13: mensagem 1
+[servidor] ('127.0.0.1', 56435): cliente 5: mensagem 2
+[servidor] ('127.0.0.1', 56442) desconectou
+[servidor] ('127.0.0.1', 56436) conectou
+[servidor] thread Thread-30 (atender_cliente) criada para ('127.0.0.1', 56436)
+[servidor] ('127.0.0.1', 56441) desconectou
+[servidor] ('127.0.0.1', 56436): cliente 7: mensagem 1
+[servidor] ('127.0.0.1', 56435): cliente 5: mensagem 3
+[servidor] ('127.0.0.1', 56438): cliente 13: mensagem 2
+[servidor] ('127.0.0.1', 56443) conectou
+[servidor] thread Thread-31 (atender_cliente) criada para ('127.0.0.1', 56443)
+[servidor] ('127.0.0.1', 56435) desconectou
+[servidor] ('127.0.0.1', 56436): cliente 7: mensagem 2
+[servidor] ('127.0.0.1', 56443): cliente 21: mensagem 1
+[servidor] ('127.0.0.1', 56438): cliente 13: mensagem 3
+[servidor] ('127.0.0.1', 56444) conectou
+[servidor] thread Thread-32 (atender_cliente) criada para ('127.0.0.1', 56444)
+[servidor] ('127.0.0.1', 56444): cliente 20: mensagem 1
+[servidor] ('127.0.0.1', 56445) conectou
+[servidor] ('127.0.0.1', 56436): cliente 7: mensagem 3
+[servidor] ('127.0.0.1', 56438) desconectou
+[servidor] thread Thread-33 (atender_cliente) criada para ('127.0.0.1', 56445)
+[servidor] ('127.0.0.1', 56443): cliente 21: mensagem 2
+[servidor] ('127.0.0.1', 56445): cliente 22: mensagem 1
+[servidor] ('127.0.0.1', 56444): cliente 20: mensagem 2
+[servidor] ('127.0.0.1', 56444): cliente 20: mensagem 3
+[servidor] ('127.0.0.1', 56443): cliente 21: mensagem 3
+[servidor] ('127.0.0.1', 56445): cliente 22: mensagem 2
+[servidor] ('127.0.0.1', 56446) conectou
+[servidor] thread Thread-34 (atender_cliente) criada para ('127.0.0.1', 56446)
+[servidor] ('127.0.0.1', 56436) desconectou
+[servidor] ('127.0.0.1', 56446): cliente 23: mensagem 1
+[servidor] ('127.0.0.1', 56448) conectou
+[servidor] ('127.0.0.1', 56444) desconectou
+[servidor] ('127.0.0.1', 56443) desconectou
+[servidor] ('127.0.0.1', 56448): cliente 25: mensagem 1
+[servidor] ('127.0.0.1', 56446): cliente 23: mensagem 2
+[servidor] thread Thread-35 (atender_cliente) criada para ('127.0.0.1', 56448)
+[servidor] ('127.0.0.1', 56445): cliente 22: mensagem 3
+[servidor] ('127.0.0.1', 56448): cliente 25: mensagem 2
+[servidor] ('127.0.0.1', 56446): cliente 23: mensagem 3
+[servidor] ('127.0.0.1', 56447) conectou
+[servidor] thread Thread-36 (atender_cliente) criada para ('127.0.0.1', 56447)
+[servidor] ('127.0.0.1', 56447): cliente 26: mensagem 1
+[servidor] ('127.0.0.1', 56448): cliente 25: mensagem 3
+[servidor] ('127.0.0.1', 56445) desconectou
+[servidor] thread Thread-37 (atender_cliente) criada para ('127.0.0.1', 56449)
+[servidor] ('127.0.0.1', 56449) conectou
+[servidor] ('127.0.0.1', 56446) desconectou
+[servidor] ('127.0.0.1', 56447): cliente 26: mensagem 2
+[servidor] ('127.0.0.1', 56449): cliente 27: mensagem 1
+[servidor] thread Thread-38 (atender_cliente) criada para ('127.0.0.1', 56450)
+[servidor] ('127.0.0.1', 56450) conectou
+[servidor] ('127.0.0.1', 56448) desconectou
+[servidor] ('127.0.0.1', 56450): cliente 28: mensagem 1
+[servidor] ('127.0.0.1', 56447): cliente 26: mensagem 3
+[servidor] ('127.0.0.1', 56449): cliente 27: mensagem 2
+[servidor] ('127.0.0.1', 56451) conectou
+[servidor] thread Thread-39 (atender_cliente) criada para ('127.0.0.1', 56451)
+[servidor] ('127.0.0.1', 56451): cliente 31: mensagem 1
+[servidor] ('127.0.0.1', 56450): cliente 28: mensagem 2
+[servidor] ('127.0.0.1', 56447) desconectou
+[servidor] ('127.0.0.1', 56449): cliente 27: mensagem 3
+[servidor] thread Thread-40 (atender_cliente) criada para ('127.0.0.1', 56452)
+[servidor] ('127.0.0.1', 56452) conectou
+[servidor] ('127.0.0.1', 56450): cliente 28: mensagem 3
+[servidor] ('127.0.0.1', 56451): cliente 31: mensagem 2
+[servidor] ('127.0.0.1', 56452): cliente 30: mensagem 1
+[servidor] ('127.0.0.1', 56449) desconectou
+[servidor] ('127.0.0.1', 56454) conectou
+[servidor] ('127.0.0.1', 56450) desconectou
+[servidor] thread Thread-41 (atender_cliente) criada para ('127.0.0.1', 56454)
+[servidor] ('127.0.0.1', 56451): cliente 31: mensagem 3
+[servidor] ('127.0.0.1', 56454): cliente 32: mensagem 1
+[servidor] ('127.0.0.1', 56452): cliente 30: mensagem 2
+[servidor] ('127.0.0.1', 56453) conectou
+[servidor] thread Thread-42 (atender_cliente) criada para ('127.0.0.1', 56453)
+[servidor] ('127.0.0.1', 56451) desconectou
+[servidor] ('127.0.0.1', 56454): cliente 32: mensagem 2
+[servidor] ('127.0.0.1', 56453): cliente 29: mensagem 1
+[servidor] ('127.0.0.1', 56452): cliente 30: mensagem 3
+[servidor] thread Thread-43 (atender_cliente) criada para ('127.0.0.1', 56455)
+[servidor] ('127.0.0.1', 56455) conectou
+[servidor] ('127.0.0.1', 56455): cliente 33: mensagem 1
+[servidor] ('127.0.0.1', 56454): cliente 32: mensagem 3
+[servidor] ('127.0.0.1', 56453): cliente 29: mensagem 2
+[servidor] ('127.0.0.1', 56452) desconectou
+[servidor] thread Thread-44 (atender_cliente) criada para ('127.0.0.1', 56456)
+[servidor] ('127.0.0.1', 56456) conectou
+[servidor] ('127.0.0.1', 56456): cliente 35: mensagem 1
+[servidor] ('127.0.0.1', 56457) conectou
+[servidor] ('127.0.0.1', 56454) desconectou
+[servidor] thread Thread-45 (atender_cliente) criada para ('127.0.0.1', 56457)
+[servidor] ('127.0.0.1', 56455): cliente 33: mensagem 2
+[servidor] ('127.0.0.1', 56453): cliente 29: mensagem 3
+[servidor] ('127.0.0.1', 56456): cliente 35: mensagem 2
+[servidor] ('127.0.0.1', 56458) conectou
+[servidor] ('127.0.0.1', 56457): cliente 36: mensagem 1
+[servidor] thread Thread-46 (atender_cliente) criada para ('127.0.0.1', 56458)
+[servidor] ('127.0.0.1', 56458): cliente 38: mensagem 1
+[servidor] ('127.0.0.1', 56455): cliente 33: mensagem 3
+[servidor] ('127.0.0.1', 56453) desconectou
+[servidor] ('127.0.0.1', 56459) conectou
+[servidor] thread Thread-47 (atender_cliente) criada para ('127.0.0.1', 56459)
+[servidor] ('127.0.0.1', 56457): cliente 36: mensagem 2
+[servidor] ('127.0.0.1', 56456): cliente 35: mensagem 3
+[servidor] ('127.0.0.1', 56459): cliente 37: mensagem 1
+[servidor] thread Thread-48 (atender_cliente) criada para ('127.0.0.1', 56460)
+[servidor] ('127.0.0.1', 56455) desconectou
+[servidor] ('127.0.0.1', 56460) conectou
+[servidor] ('127.0.0.1', 56457): cliente 36: mensagem 3
+[servidor] ('127.0.0.1', 56460): cliente 34: mensagem 1
+[servidor] ('127.0.0.1', 56458): cliente 38: mensagem 2
+[servidor] ('127.0.0.1', 56456) desconectou
+[servidor] ('127.0.0.1', 56459): cliente 37: mensagem 2
+[servidor] ('127.0.0.1', 56457) desconectou
+[servidor] ('127.0.0.1', 56458): cliente 38: mensagem 3
+[servidor] ('127.0.0.1', 56462) conectou
+[servidor] ('127.0.0.1', 56459): cliente 37: mensagem 3
+[servidor] ('127.0.0.1', 56460): cliente 34: mensagem 2
+[servidor] thread Thread-49 (atender_cliente) criada para ('127.0.0.1', 56462)
+[servidor] ('127.0.0.1', 56462): cliente 40: mensagem 1
+[servidor] ('127.0.0.1', 56458) desconectou
+[servidor] ('127.0.0.1', 56461) conectou
+[servidor] ('127.0.0.1', 56459) desconectou
+[servidor] thread Thread-50 (atender_cliente) criada para ('127.0.0.1', 56461)
+[servidor] ('127.0.0.1', 56460): cliente 34: mensagem 3
+[servidor] ('127.0.0.1', 56462): cliente 40: mensagem 2
+[servidor] ('127.0.0.1', 56461): cliente 39: mensagem 1
+[servidor] ('127.0.0.1', 56463) conectou
+[servidor] thread Thread-51 (atender_cliente) criada para ('127.0.0.1', 56463)
+[servidor] ('127.0.0.1', 56462): cliente 40: mensagem 3
+[servidor] ('127.0.0.1', 56463): cliente 41: mensagem 1
+[servidor] ('127.0.0.1', 56460) desconectou
+[servidor] ('127.0.0.1', 56461): cliente 39: mensagem 2
+[servidor] thread Thread-52 (atender_cliente) criada para ('127.0.0.1', 56465)
+[servidor] ('127.0.0.1', 56465) conectou
+[servidor] ('127.0.0.1', 56463): cliente 41: mensagem 2
+[servidor] ('127.0.0.1', 56462) desconectou
+[servidor] ('127.0.0.1', 56464) conectou
+[servidor] ('127.0.0.1', 56465): cliente 43: mensagem 1
+[servidor] ('127.0.0.1', 56461): cliente 39: mensagem 3
+[servidor] thread Thread-53 (atender_cliente) criada para ('127.0.0.1', 56464)
+[servidor] ('127.0.0.1', 56464): cliente 45: mensagem 1
+[servidor] ('127.0.0.1', 56463): cliente 41: mensagem 3
+[servidor] ('127.0.0.1', 56465): cliente 43: mensagem 2
+[servidor] thread Thread-54 (atender_cliente) criada para ('127.0.0.1', 56466)
+[servidor] ('127.0.0.1', 56466) conectou
+[servidor] ('127.0.0.1', 56461) desconectou
+[servidor] ('127.0.0.1', 56466): cliente 42: mensagem 1
+[servidor] ('127.0.0.1', 56465): cliente 43: mensagem 3
+[servidor] ('127.0.0.1', 56464): cliente 45: mensagem 2
+[servidor] ('127.0.0.1', 56463) desconectou
+[servidor] ('127.0.0.1', 56467) conectou
+[servidor] thread Thread-55 (atender_cliente) criada para ('127.0.0.1', 56467)
+[servidor] ('127.0.0.1', 56467): cliente 46: mensagem 1
+[servidor] ('127.0.0.1', 56465) desconectou
+[servidor] ('127.0.0.1', 56464): cliente 45: mensagem 3
+[servidor] ('127.0.0.1', 56468) conectou
+[servidor] ('127.0.0.1', 56466): cliente 42: mensagem 2
+[servidor] thread Thread-56 (atender_cliente) criada para ('127.0.0.1', 56468)
+[servidor] ('127.0.0.1', 56467): cliente 46: mensagem 2
+[servidor] ('127.0.0.1', 56468): cliente 47: mensagem 1
+[servidor] ('127.0.0.1', 56464) desconectou
+[servidor] ('127.0.0.1', 56466): cliente 42: mensagem 3
+[servidor] ('127.0.0.1', 56469) conectou
+[servidor] thread Thread-57 (atender_cliente) criada para ('127.0.0.1', 56469)
+[servidor] ('127.0.0.1', 56467): cliente 46: mensagem 3
+[servidor] ('127.0.0.1', 56468): cliente 47: mensagem 2
+[servidor] ('127.0.0.1', 56466) desconectou
+[servidor] ('127.0.0.1', 56467) desconectou
+[servidor] ('127.0.0.1', 56468): cliente 47: mensagem 3
+[servidor] ('127.0.0.1', 56469): cliente 44: mensagem 1
+[servidor] thread Thread-58 (atender_cliente) criada para ('127.0.0.1', 56470)
+[servidor] ('127.0.0.1', 56470) conectou
+[servidor] ('127.0.0.1', 56470): cliente 48: mensagem 1
+[servidor] ('127.0.0.1', 56469): cliente 44: mensagem 2
+[servidor] ('127.0.0.1', 56468) desconectou
+[servidor] thread Thread-59 (atender_cliente) criada para ('127.0.0.1', 56471)
+[servidor] ('127.0.0.1', 56471) conectou
+[servidor] ('127.0.0.1', 56470): cliente 48: mensagem 2
+[servidor] ('127.0.0.1', 56469): cliente 44: mensagem 3
+[servidor] ('127.0.0.1', 56471): cliente 50: mensagem 1
+[servidor] thread Thread-60 (atender_cliente) criada para ('127.0.0.1', 56472)
+[servidor] ('127.0.0.1', 56472) conectou
+[servidor] ('127.0.0.1', 56470): cliente 48: mensagem 3
+[servidor] ('127.0.0.1', 56472): cliente 49: mensagem 1
+[servidor] ('127.0.0.1', 56471): cliente 50: mensagem 2
+[servidor] ('127.0.0.1', 56469) desconectou
+[servidor] ('127.0.0.1', 56470) desconectou
+[servidor] ('127.0.0.1', 56472): cliente 49: mensagem 2
+[servidor] ('127.0.0.1', 56471): cliente 50: mensagem 3
+[servidor] ('127.0.0.1', 56472): cliente 49: mensagem 3
+[servidor] ('127.0.0.1', 56471) desconectou
+[servidor] ('127.0.0.1', 56472) desconectou
