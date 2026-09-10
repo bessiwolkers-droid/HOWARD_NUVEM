@@ -13,6 +13,8 @@ Os arquivos ficam na pasta `C1A2`:
 - `modelo.py` — classificador de sentimento, o mesmo arquivo da Aula 06
 - `fila.py` — funções para colocar tarefas na fila e guardar os resultados no Redis
 - `api_rest.py` — a API que recebe os textos, de forma síncrona e assíncrona
+- `worker.py` — processo que retira as tarefas da fila e executa as inferências
+- `cliente_fila.py` — cliente de teste do caminho assíncrono
 - `docker-compose.yml` — sobe o Redis usado pela fila
 
 O modelo é carregado uma única vez, quando a aplicação inicia. Assim ele não precisa ser preparado novamente a cada requisição, do mesmo jeito que foi feito na Aula 05.
@@ -66,7 +68,24 @@ Se a identificação não existir, a resposta é `404` em vez de devolver um cor
 
 Essa rota também escreve uma mensagem no terminal com o estado devolvido, o que ajuda a acompanhar a tarefa mudando de situação sem precisar abrir o Redis.
 
-## 6. Como executar
+## 6. Processo que executa as inferências
+
+O arquivo `worker.py` é um programa separado da API. Ele carrega o modelo uma vez e entra em um laço chamando `proxima_tarefa()`, que fica bloqueado esperando aparecer item na fila.
+
+Quando chega uma tarefa, o worker executa a previsão, marca o estado como `pronto`, guarda o tempo da inferência e grava tudo com `guardar_resultado()`. É essa gravação que faz a rota `GET /resultado/{id}` passar a devolver a resposta completa.
+
+O caminho inteiro fica assim:
+
+1. a API recebe o texto e coloca na fila, devolvendo o id na hora
+2. o worker retira a tarefa da fila e executa a inferência
+3. o worker grava o resultado
+4. o cliente consulta o id e recebe o resultado pronto
+
+Como a API e o worker são processos diferentes, cada um carrega o seu próprio modelo, mas sempre uma única vez na inicialização. Também é possível abrir mais de um worker no mesmo Redis, e nesse caso as tarefas se dividem entre eles, porque `proxima_tarefa()` remove o item da fila ao pegá-lo.
+
+Os erros de uma tarefa são registrados no terminal e não derrubam o laço, então o worker continua atendendo as tarefas seguintes.
+
+## 7. Como executar
 
 Primeiro é preciso subir o Redis, porque a fila depende dele:
 
@@ -81,11 +100,25 @@ pip install -r requirements.txt
 uvicorn api_rest:app --reload --port 8000
 ```
 
-A documentação automática do FastAPI fica em `http://localhost:8000/docs`. Por ela já é possível enviar um texto na rota `POST /predict` e, com o id recebido, consultar a rota `GET /resultado/{id}`.
+Em outro terminal, dentro da mesma pasta, inicie o worker:
 
-## 7. Próximos passos
+```bash
+python3 worker.py
+```
 
-As duas rotas do caminho assíncrono já existem, mas nenhuma tarefa fica pronta ainda, porque falta o processo que retira os itens da fila e executa a inferência. É a próxima entrega.
+A documentação automática do FastAPI fica em `http://localhost:8000/docs`. Para testar o caminho assíncrono pelo terminal, usei o cliente:
+
+```bash
+python3 cliente_fila.py "o atendimento foi excelente e muito rapido"
+```
+
+Ele mostra o id devolvido na hora e, em seguida, o resultado depois que o worker termina.
+
+## 8. Próximos passos
+
+O caminho assíncrono está completo. Conferi que o mesmo texto recebe a mesma classificação pelas duas rotas, a síncrona e a assíncrona, e que o modelo é carregado uma única vez em cada processo.
+
+Ainda faltam as demais tarefas do trabalho: a interface gRPC com o método de lote, o tratamento de erro com nova tentativa e fila de descarte, e a revisão final da documentação.
 
 ## Referência
 
