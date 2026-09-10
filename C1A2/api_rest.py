@@ -41,3 +41,17 @@ def predict(entrada: Entrada):
     tempo_ms = round((perf_counter() - inicio) * 1000, 2)
     print(f"[REST] /predict id={tarefa_id} texto={len(entrada.texto)} caracteres tempo={tempo_ms} ms", flush=True)
     return {"id": tarefa_id, "status": "na_fila"}
+
+
+@app.get("/resultado/{tarefa_id}")
+def resultado(tarefa_id: str):
+    inicio = perf_counter()
+    dados = fila.buscar_resultado(tarefa_id)
+    tempo_ms = round((perf_counter() - inicio) * 1000, 2)
+
+    if dados is None:
+        print(f"[REST] /resultado id={tarefa_id} nao encontrado tempo={tempo_ms} ms", flush=True)
+        raise HTTPException(status_code=404, detail="Tarefa não encontrada.")
+
+    print(f"[REST] /resultado id={tarefa_id} status={dados.get('status')} tempo={tempo_ms} ms", flush=True)
+    return dados
